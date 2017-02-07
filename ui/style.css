@@ -1,8 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
-     background: url('https://www.internetcreation.net/wp-content/uploads/2015/04/banner-mobile-app.png') no-repeat fixed;
+    background: url('https://www.internetcreation.net/wp-content/uploads/2015/04/banner-mobile-app.png') no-repeat fixed;
         -webkit-background-size: contain;
         -moz-background-size: contain;
         -o-background-size: contain;
