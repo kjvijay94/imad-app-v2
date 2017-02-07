@@ -19,6 +19,7 @@ body {
 .img-medium {
     height: 200px;
 }
-.body {
+.fit {
   max-width: 99%;
   max-height: 99%;
+}
