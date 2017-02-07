@@ -2,8 +2,9 @@ body {
     font-family: sans-serif;
     background-image: url('https://www.internetcreation.net/wp-content/uploads/2015/04/banner-mobile-app.png');
     background-repeat: no-repeat;
-    padding: 100px;
     background-size: cover;
+    padding: 100px;
+    
 }
 .center {
     text-align: center;
