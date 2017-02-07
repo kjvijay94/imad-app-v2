@@ -3,7 +3,7 @@ body {
     
     background-image: url('http://2peppers.com/wp-content/uploads/2016/07/mobile-app-development.jpg');
     background-repeat: no-repeat;
-    background-size: 1350px 768px;
+    background-size:cover;
     
 }
 .center {
